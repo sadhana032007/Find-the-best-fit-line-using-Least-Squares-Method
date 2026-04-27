@@ -40,6 +40,8 @@ plt.show()
 ```
 
 ## Output:
+
+
 <img width="949" height="687" alt="WhatsApp Image 2026-04-27 at 3 12 13 PM" src="https://github.com/user-attachments/assets/021b73e8-3759-4190-a074-07faa581c3d1" />
 
 
